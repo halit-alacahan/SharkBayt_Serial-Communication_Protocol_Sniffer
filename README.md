@@ -66,7 +66,7 @@ It systematically scans connected probe lines (P1–P8), analyzes clock transiti
 ---
 ## 📜 License & Proprietary Notice
 
-Copyright © 2025 **[Takım/Şirket Adı]**. All rights reserved.
+Copyright © 2025 **[Halit Alacahan & Yahya Çakır]**. All rights reserved.
 
 The hardware schematics, PCB designs, and related files in this repository are proprietary. No license is granted for commercial use, mass production, modification, or redistribution without prior written consent.
 
